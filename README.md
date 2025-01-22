@@ -60,13 +60,13 @@ Even if you don’t have multiple machines, you can **run MPI locally**:
 ### 5️⃣ **Increasing Image Resolution for Zooming**
 To **improve image detail** when zooming in, modify these parameters in `main.cpp`:
 
-- **Increase `width` and `height`**
+- **Increase `width` and `height`**:
   
-  This makes the image sharper when zoomed in.
+   This makes the image sharper when zoomed in.
 
 - **Increase `max_iter`**:
  
-  More iterations allow for finer fractal details.
+   More iterations allow for finer fractal details.
 
 ⚠️ **Warning:**  
 Higher resolutions and iterations will **increase computational load** 
