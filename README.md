@@ -62,15 +62,17 @@ To **improve image detail** when zooming in, modify these parameters in `main.cp
 
 - **Increase `width` and `height`**:
   
-   This makes the image sharper when zoomed in.
+  This makes the image sharper when zoomed in.
 
 - **Increase `max_iter`**:
  
-   More iterations allow for finer fractal details.
+  More iterations allow for finer fractal details.
 
 ⚠️ **Warning:**  
-Higher resolutions and iterations will **increase computational load** 
-Generated image will **take up more space**
+
+  Higher resolutions and iterations will **increase computational load**
+
+  Generated image will **take up more space**
 
 ## Notes
 - You must **set up MPI and passwordless SSH for multi-machine execution**.
