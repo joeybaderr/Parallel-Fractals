@@ -1,6 +1,6 @@
 # Parallel Fractals
 
-This project generates **Julia and Mandelbrot fractals**. It supports both **sequential execution** and **parallel execution using MPI** for distributed computation.
+This project generates **Julia and Mandelbrot fractals**. It supports both **sequential execution** and **parallel execution using MPI** for the latter.
 
 ## Compilation and Execution
 
